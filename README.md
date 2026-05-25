@@ -18,7 +18,7 @@ A responsive  weather website built using React, HTML, CSS, and Bootstrap. It sh
         Wind speed (km/h)
         Weather condition icon
         City name, date & time
-    📱 Responsive design (works on desktop & mobile)
+   -  📱 Responsive design (works on desktop & mobile)
    
 
 ⚙️ Technologies Used
